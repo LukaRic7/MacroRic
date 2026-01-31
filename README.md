@@ -17,7 +17,6 @@
   - Custom wait and hold durations
 - Repeat macros and individual macro rows multiple times
 - Save and load macros in `.mrs` format
-- Track mouse positions in real-time
 - Hotkey support for starting/stopping macros
 - GUI with an interactive list view for managing macro rows
 - Estimated execution time calculation
