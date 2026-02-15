@@ -21,4 +21,4 @@
 - GUI with an interactive list view for managing macro rows
 - Estimated execution time calculation
 
-> The application will automatically create the required folders and configuration files in your `%AppData%` directory:
+> The application will automatically create the required folders and configuration files in your `%AppData%` directory.
